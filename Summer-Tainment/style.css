@@ -1,0 +1,16 @@
+
+
+body {
+    background-image: url(/Summer-Tainment/imgs/Background.jpg);
+    background-repeat: no-repeat;
+    background-size: 2500px;
+}
+
+.center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1500px;
+    height: 100px;
+    
+  }
