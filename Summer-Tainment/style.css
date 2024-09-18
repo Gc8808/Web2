@@ -39,3 +39,30 @@ body {
     height: 150px;
     background-color: white;
   }
+
+  .Section2 {
+    display: block;
+   padding: 200px;
+    
+    width: 400px;
+    height: 150px;
+    background-color: white;
+  }
+
+
+  .Section3 {
+    display: block;
+    margin-left: 20px;
+    
+    width: 400px;
+    height: 150px;
+    background-color: white;
+  }
+
+  .Cardsarea {
+    padding: 80px;
+  }
+  footer {
+    background-color: black
+  
+  }
